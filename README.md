@@ -1,2 +1,2 @@
 # shipment_schedule_testing
-Test project
+A sample test project which uses Jest and TypeScript.
